@@ -2,7 +2,7 @@
 ## Introduction
 Example of simple machine learning of neural networks for data represented by blurred sets in Python using the Keras library together with the model utilization function.
 ## Requirements
-For proper functioning of algorithms you need the ```Python``` interpreter version ```3. 11. 3``` and the following libraries:
+For proper functioning of algorithms you need the ```Python``` interpreter version ```3.11.3``` and the following libraries:
 - keras (2.12.0)
 - scikit-leranr (1.2.2)
 - numpy (1.23.5)
