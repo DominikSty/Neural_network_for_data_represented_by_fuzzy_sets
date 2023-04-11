@@ -1,4 +1,4 @@
-# Neural network for data represented by fuzzy sets
+# Neural network for data represented by fuzzy sets: circle radius
 ## Introduction
 Example of simple machine learning of neural networks for data represented by blurred sets in Python using the Keras library together with the model utilization function.
 ## Requirements
