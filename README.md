@@ -7,6 +7,7 @@ For proper functioning of algorithms you need the ```Python``` interpreter versi
 - scikit-leranr (1.2.2)
 - numpy (1.23.5)
 - matplotlib (3.7.1)
+
 Algorithm has been tested for the above versions.
 
 # MAIN (file)
